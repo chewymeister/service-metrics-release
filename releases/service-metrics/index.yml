@@ -6,4 +6,6 @@ builds:
     version: 1.5.7
   6132c2d2-b5fd-4086-9c44-3321ece4928f:
     version: 1.5.9
+  4071db96-85b9-462e-9cd7-476105433a6f:
+    version: 1.5.9-metadata
 format-version: '2'
