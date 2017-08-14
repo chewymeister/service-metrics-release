@@ -10,4 +10,6 @@ builds:
     version: 1.5.9-metadata
   f4716c7a-63fc-4aa1-ba06-fdb9732a0db1:
     version: 1.5.9-metadata-metadata
+  c582499e-d97f-494d-b786-40aa3640c427:
+    version: 1.5.9-metadata-metadata-metadata
 format-version: '2'
