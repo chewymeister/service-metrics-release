@@ -8,4 +8,6 @@ builds:
     version: 1.5.9
   4071db96-85b9-462e-9cd7-476105433a6f:
     version: 1.5.9-metadata
+  f4716c7a-63fc-4aa1-ba06-fdb9732a0db1:
+    version: 1.5.9-metadata-metadata
 format-version: '2'
